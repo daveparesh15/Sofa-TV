@@ -1,15 +1,15 @@
 {
   "title": "This is Title!",
   "message": "This is Message",
-  "download": "Direct APK Download Link!!!",
-  "playstore": "com.mgngoe.zfont",
+  "download": "https://github.com/daveparesh15/Sofa-TV/releases/download/v2.2.1/SofaTV_2_2_1.apk",
+  "playstore": "",
   "uninstall": false,
   "what": {
     "model": [],
     "version": [],
     "all": true
   },
-  "versionName": "1.7",
-  "versionCode": 8,
+  "versionName": "2.3",
+  "versionCode": 12,
   "force": true
 }
