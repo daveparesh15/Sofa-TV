@@ -6,10 +6,10 @@
   "uninstall": true,
   "what": {
     "model": [],
-    "version": [],
+    "version": [11],
     "all": true
   },
   "versionName": "2.2.1",
   "versionCode": 12,
-  "force": false
+  "force": true
 }
