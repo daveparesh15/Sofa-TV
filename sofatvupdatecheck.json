@@ -1,7 +1,7 @@
 {
   "title": "New Update Available V2.3",
   "message": "-Database Server Issue Fixed\n-Minor Bug Fixed",
-  "download": "https://github.com/daveparesh15/Sofa-TV/releases/download/v2.2.1/SofaTV_2_2_1.apk",
+  "download": "https://github.com/daveparesh15/Sofa-TV/releases/download/v2.3/SofaTV_2_3.apk",
   "playstore": "",
   "uninstall": false,
   "what": {
@@ -9,7 +9,7 @@
     "version": [11],
     "all": true
   },
-  "versionName": "2.2.1",
-  "versionCode": 12,
+  "versionName": "2.3",
+  "versionCode": 13,
   "force": true
 }
