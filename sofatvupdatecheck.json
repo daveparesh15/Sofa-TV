@@ -1,7 +1,7 @@
 {
   "title": "New Update Available",
-  "message": "-Fixed Google Play Protect Message.\n-Fixed Download Option.\n-Renovated ExoPlayer.\n-Added Subtitle Option.\n-Created Telegram Group.\n-Minor Bug Fixed.",
-  "download": "https://github.com/daveparesh15/Sofa-TV/releases/download/v2.6/AppSofaTV2_6.apk",
+  "message": "-Added Download with ADM Options.\n-Minor Bug Fixed.",
+  "download": "https://github.com/daveparesh15/Sofa-TV/releases/download/v2.6.1/SofaTV2_6_1.apk",
   "playstore": "",
   "uninstall": false,
   "what": {
@@ -9,7 +9,7 @@
     "version": [11],
     "all": true
   },
-  "versionName": "2.6",
-  "versionCode": 15,
+  "versionName": "2.6.1",
+  "versionCode": 16,
   "force": true
 }
