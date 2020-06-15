@@ -1,7 +1,7 @@
 {
   "title": "New Update Available",
-  "message": "-Added Download with ADM Options.\n-Minor Bug Fixed.",
-  "download": "https://github.com/daveparesh15/Sofa-TV/releases/download/v2.6.1/SofaTV2_6_1.apk",
+  "message": "-Added Subtitle Settings.\n-Minor Bug Fixed.",
+  "download": "https://github.com/daveparesh15/Sofa-TV/releases/download/v2.7/SofaTV_2_7.apk",
   "playstore": "",
   "uninstall": false,
   "what": {
@@ -9,7 +9,7 @@
     "version": [11],
     "all": true
   },
-  "versionName": "2.6.1",
-  "versionCode": 16,
+  "versionName": "2.7",
+  "versionCode": 17,
   "force": true
 }
