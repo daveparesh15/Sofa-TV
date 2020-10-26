@@ -1,0 +1,15 @@
+{
+  "title": "This is Title!",
+  "message": "This is Message",
+  "download": "Direct APK Download Link!!!",
+  "playstore": "com.mgngoe.zfont",
+  "uninstall": false,
+  "what": {
+    "model": [],
+    "version": [],
+    "all": true
+  },
+  "versionName": "2.7.2",
+  "versionCode": 19,
+  "force": true
+}
