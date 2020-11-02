@@ -1,0 +1,15 @@
+{
+  "title": "New Update Available",
+  "message": "-Minor Bug Fixed. \n-Favorite Button Issue Fixed.",
+  "download": "https://github.com/daveparesh15/Sofa-TV/releases/download/v2.7.2/SofaTV_2_7_2.apk",
+  "playstore": "",
+  "uninstall": false,
+  "what": {
+    "model": [],
+    "version": [11],
+    "all": true
+  },
+  "versionName": "2.7.2",
+  "versionCode": 19,
+  "force": true
+}
