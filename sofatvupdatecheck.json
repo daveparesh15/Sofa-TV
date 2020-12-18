@@ -1,7 +1,7 @@
 {
   "title": "New Update Available Sofa TV",
-  "message": "-New Movie Server Links. \n-Movies Uploading Issue Fixed. \n-Update Dialog Issue Fixed. \n-Minor Bug Fixed. \n-Favorite Button Issue Fixed.",
-  "download": "https://github.com/daveparesh15/Sofa-TV/releases/download/v2.8/SofaTV_2_8.apk",
+  "message": "-Added Search Options on TV Shows. \n-New Movie Server Links. \n-Movies Loading Issue Fixed. \n-Minor Bug Fixed.",
+  "download": "https://github.com/daveparesh15/Sofa-TV/releases/download/v2.8.1/SofaTV_2_8_1.apk",
   "playstore": "",
   "uninstall": false,
   "what": {
@@ -9,7 +9,7 @@
     "version": [11],
     "all": true
   },
-  "versionName": "2.8",
-  "versionCode": 20,
+  "versionName": "2.8.1",
+  "versionCode": 21,
   "force": true
 }
