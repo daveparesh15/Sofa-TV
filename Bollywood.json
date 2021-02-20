@@ -1,0 +1,40 @@
+{
+"page":1,
+"results":
+[
+{
+"adult":false,
+"backdrop_path":"/rf1GLwpT0LU20DDFROHBAz8SHI3.jpg",
+"genre_ids":[18,10751],
+"id":744991,"original_language":"hi","original_title":"त्रिभंग",
+"overview":"When her estranged mother falls into a coma, a self-made single mom grapples with regret and resentment while reflecting on their strained relationship.",
+"popularity":3.531,
+"poster_path":"/lbGINHbqJ7zYcIpsoIaEEASNrBM.jpg",
+"release_date":"2021-01-15","title":"Tribhanga",
+"video":false,
+"vote_average":7.2,
+"vote_count":8
+},
+{
+"adult":false,
+"backdrop_path":"/iKFpeM9xS5N0Yj5EGPqM6QFOnB2.jpg","genre_ids":[80,18,28],"id":784167,"original_language":"hi","original_title":"The Power","overview":"It is a hair-raising journey into the world of two lovers as both their families are ripped apart for the sake of revenge and power, and an entertaining look at how they rise out of that pit of blood lust and despair, together.","popularity":2.033,"poster_path":"/fNQ3w9FQEd6OQGHbwyPGyqTaGNf.jpg","release_date":"2021-01-14","title":"The Power","video":false,"vote_average":7,
+"vote_count":4
+},
+ {
+      "adult" : false,
+      "backdrop_path" : "/weJYMgSUe9g5gRu11ZM40txbLtY.jpg",
+      "genre_ids" : [ 18, 35, 10749 ],
+      "idmovie" : 85052,
+      "original_language" : "hi",
+      "original_title" : "हाउसफुल २",
+      "overview" : "Housefull 2 is an upcoming Bollywood action comedy film directed by Sajid Khan and produced by Sajid Nadiadwala. It is the sequel to the 2010 Bollywood commercially successful movie Housefull",
+      "popularity" : 3.485,
+      "poster_path1" : "/y6L3GpfXWqfO7COtUyiEeACH35G.jpg",
+      "release_date1" : "2012-04-05",
+      "title" : "Housefull 2",
+      "video" : "https://ok.ru/video/2467289828022",
+      "vote_average1" : 5.2,
+      "vote_count" : 44
+    }
+]
+}
