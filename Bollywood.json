@@ -18,22 +18,7 @@
 "adult":false,
 "backdrop_path":"/iKFpeM9xS5N0Yj5EGPqM6QFOnB2.jpg","genre_ids":[80,18,28],"id":784167,"original_language":"hi","original_title":"The Power","overview":"It is a hair-raising journey into the world of two lovers as both their families are ripped apart for the sake of revenge and power, and an entertaining look at how they rise out of that pit of blood lust and despair, together.","popularity":2.033,"poster_path":"/fNQ3w9FQEd6OQGHbwyPGyqTaGNf.jpg","release_date":"2021-01-14","title":"The Power","video":false,"vote_average":7,
 "vote_count":4
-},
-  {
-      "adult" : false,
-      "backdrop_path" : "/1mz4gm5dxwjbR0QSOXgDbaHnlx6.jpg",
-      "genre_ids" : [ 35, 10749 ],
-      "id" : 579224,
-      "original_language" : "hi",
-      "original_title" : "Dream Girl",
-      "overview" : "Desperate to find employment, Karam picks up a job as ‘Pooja’ at a call center for sex chats, keeping most people in his life in the dark about the nature of his work. How long can he keep it up before everyone including his girlfriend and father find out?",
-      "popularity" : 3.66,
-      "poster_path" : "/c8xMjFoLLmuamrWbCXnp0Mq2eZQ.jpg",
-      "release_date" : "2019-09-12",
-      "title" : "Dream Girl",
-      "vote_average" : 7.9,
-      "vote_count" : 12
-    }
+}
 ],
   "total_pages":1,
   "total_results":2
