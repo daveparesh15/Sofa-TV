@@ -1,0 +1,12 @@
+{
+"message":{
+  "update_title": "Sofa Player Update",
+  "update_content": "Update to the latest version.",
+  "update_link_dl": "https://github.com/daveparesh15/Sofa-TV/raw/master/SofaPlayer1_3.apk",
+  "update_type": "apps.devpa.sofaplayer",
+  "uninstall": false,
+  "update_build": 5,
+  "update_force": true
+  }
+  }
+}
