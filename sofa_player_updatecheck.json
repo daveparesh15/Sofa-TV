@@ -5,5 +5,5 @@
   "update_type": "apps.devpa.sofaplayer",
   "uninstall": false,
   "update_build": 6,
-  "update_force": false
+  "update_force": true
 }
