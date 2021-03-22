@@ -6,7 +6,7 @@
 "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/org.videolan.vlc_3.1.7-13010707_minapi17arm64-v8anodpi_apkmirror.com/vlc317.apk",  
 "update_isforce":false,  
-"update_isapk": false,  
+"update_isapk": true,  
 "update_title":"Update new version",  
 "update_content":"New Update available. Please Update it.", 
 "update_build":"2",  
