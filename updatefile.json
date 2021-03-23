@@ -9,7 +9,7 @@
 "update_isapk": true,  
 "update_title":"Update new version",  
 "update_content":"New Update available. Please Update it.", 
-"update_build":"2",  
+"update_build":"1",  
 "update_version":"1.0",  
 "enable_force_player":false,
 "update_link":"https://github.com/daveparesh15/Sofa-TV/releases/download/v2.8.1/SofaTV_2_8_1.apk",  
