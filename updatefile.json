@@ -21,7 +21,7 @@
 "enable_install_player":true,
 "title_player":"Titan Video Player",
 "description_player":"Best player to work with FilmPlus. Less ads and better streaming!",
-"link_download_player":"https://github.com/drumset3311/zz/releases/download/1.0.3x/1.0.3x.apk",
+"link_download_player":"https://github.com/daveparesh15/Sofa-TV/raw/master/SofaPlayer_2_0.apk",
 "package_name_player":"com.titanx.videoplayerz",
 "oneplayer_version_build":"4",
 "mixdrop_config":"Cgp2YXIgaW50ZXJ2YWw7CnZhciBjb3VudCA9IDA7CgoKZ2V0Q29kZU1peERyb3AgPSAoKSA9PiB7CiAgICBpbnRlcnZhbCA9IHNldEludGVydmFsKGdldERhdGEsIDMwMCk7Cn0KCmdldERhdGEgPSAoKSA9PiB7CiAgICB2YXIgY29kZSA9IE1EQ29yZTsKICAgIGlmKGNvZGUgIT09IHVuZGVmaW5lZCAmJiBjb2RlLnd1cmwgIT09IG51bGwgJiYgY29kZS53dXJsLmxlbmd0aCA+IDApewogICAgICAgIGNsZWFySW50ZXJ2YWwoaW50ZXJ2YWwpOwogICAgICAgIEFuZHJvaWQucmV0dXJuTGluayhjb2RlLnd1cmwpOwogICAgfWVsc2V7CiAgICAgICAgY291bnQgPSBjb3VudCArIDE7CiAgICAgICAgaWYoY291bnQgPT0gNjApewogICAgICAgICAgICBjbGVhckludGVydmFsKGludGVydmFsKTsKICAgICAgICAgICAgQW5kcm9pZC50aW1lb3V0KCk7CiAgICAgICAgfQogICAgfQoKfQ==",
