@@ -1,7 +1,10 @@
 {
 "results":
 [
-{
+  {"adult":false,"backdrop_path":"/fbALWEldsKHueCvEjHqarf9rmiM.jpg","genre_ids":[18,35],"id":786190,"original_language":"hi","original_title":"पगलैट","overview":"Widowed soon after marriage, a young woman grapples with an inability to grieve, quirky relatives and a startling discovery about her late husband.","popularity":31.528,"poster_path":"/m6xdiPCBvBZnCobR7ZPiAdIoDdJ.jpg","release_date":"2021-03-26","title":"Pagglait","video":false,"vote_average":8,"vote_count":1},
+{"adult":false,"backdrop_path":"/rqEi4HHjAiaIcxZRW4QSBCzf8kY.jpg","genre_ids":[27,35],"id":694103,"original_language":"hi","original_title":"रूही","overview":"Roohi is set in a fictional town of North India. The film revolves around two small-town boys Bhaura and Kattanni who are stuck in a forest with Roohi. But there’s an insidious spirit following them with feet turned backwards.","popularity":4.486,"poster_path":"/qHpEGFx13ntiAVl94e08EJ5ss4U.jpg","release_date":"2021-03-11","title":"Roohi","video":false,"vote_average":0,"vote_count":0},
+  {"adult":false,"backdrop_path":"/hdyP0WWMbEr28395dSADp9mlrkm.jpg","genre_ids":[18,53],"id":695958,"original_language":"hi","original_title":"द गर्ल ऑन द ट्रेन","overview":"When a voyeuristic divorcee fixates on the lives of a perfect couple a far, she soon gets embroiled in a murder mystery that unfolds revealing truths about her own life.","popularity":178.573,"poster_path":"/6Zvov912Mm0mrjR5nEGbSujjnGE.jpg","release_date":"2021-02-26","title":"The Girl on the Train","video":false,"vote_average":6,"vote_count":38},
+  {
 "adult":false,
 "backdrop_path":"/rf1GLwpT0LU20DDFROHBAz8SHI3.jpg",
 "genre_ids":[18,10751],
