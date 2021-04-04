@@ -14,7 +14,7 @@
 "enable_force_player":false,
 "update_link":"https://github.com/daveparesh15/Sofa-TV/releases/download/v2.8.1/SofaTV_2_8_1.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/mq5rrbt2cnaush3/1.1.0b2.apk",
-"pkg_uninstall":"com.aquamedia.net",  
+"pkg_uninstall":"",  
 "enable_admob":false,
 "pkg_uninstall_content":"Please uninstall old version",
 "tmdb_key":"14cecf06228ff0de9aeb7a48bcc9ef70",
