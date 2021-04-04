@@ -20,7 +20,7 @@
 "tmdb_key":"14cecf06228ff0de9aeb7a48bcc9ef70",
 "enable_install_player":true,
 "title_player":"Sofa Player",
-"description_player":"Best player to work with flixoid. Less ads and better streaming!",
+"description_player":"Best player to work with Flixoid.",
 "link_download_player":"https://github.com/daveparesh15/Sofa-TV/raw/master/SofaPlayer_2_0.apk",
 "package_name_player":"apps.devpa.sofaplayer",
 "oneplayer_version_build":"4",
