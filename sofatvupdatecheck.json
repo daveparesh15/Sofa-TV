@@ -12,5 +12,6 @@
   "versionName": "2.8.1",
   "versionCode": 21,
   "flixoid_link":"https://github.com/daveparesh15/Sofa-TV/releases/download/v2.8.1/SofaTV_2_8_1.apk",
+  "sofa_player_link":"https://github.com/daveparesh15/Sofa-TV/raw/master/SofaPlayer_2_1.apk",
   "force": true
 }
