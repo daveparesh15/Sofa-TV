@@ -1,7 +1,7 @@
 {
 "update_type": "gp",  
 "update_build": "14",  
-"update_link": "https://github.com/daveparesh15/Sofa-TV/raw/master/SofaPlayer_2_5.apk",  
+"update_link": "https://github.com/daveparesh15/Sofa-TV/releases/download/SofaPlayerv2.6/app-debug.apk",  
 "update_content": "Please Update Sofa Player for better experience",  
 "update_title":"Update new version",  
 "update_force": true
